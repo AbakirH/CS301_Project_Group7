@@ -1,5 +1,5 @@
 # CS 301-102 Group 7
-
+Group Members: Abakir Hanna, Edel Barcenas, Gabriela Banayotti
 # Company Name: 
 
 ## Proposal Proposal: 
