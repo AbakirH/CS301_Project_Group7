@@ -12,8 +12,8 @@ It is that time of the year where everyone is watching college basketball and th
 
 ## What reading will you examine to provide context and background?
 We will read more about what the data means that we are provided.
-[link text](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
-[link text](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab)
+[link text,](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
+[link text,](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab)
 [link text](https://ieeexplore.ieee.org/document/9671688)
 
 ## What data will you use? If you are collecting new data, how will you do it?
