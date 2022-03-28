@@ -1,15 +1,15 @@
 # CS 301-102 Group 7
 Group Members: Gabriela Banayotti, Abakir Hanna, Edel Barcenas
 
-# Company Name: Houseiasts INC.
-Company Mission: Houseiasts INC. finds you your dream home so you don't have to. 
+# Company Name: Sports Center INC
+Company Mission: Sports Center INC gives you all the relevent information you need around your favorite sport.
 
-Now a days the housing market is not something easily perdicted. We aim to solve this issue by tuning Models that will allow you to purchase your dream home without losing any money.
 
 ## Proposal: 
-Competition:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+Competition:https://www.kaggle.com/competitions/mens-march-mania-2022
 ## What is the problem that you will be investigating? Why is it interesting?
-A lot of people in this world believe they can determine how much a house is worth based on certain features the house has. However, thi 
+It is that time of the year where everyone is watching college basketball and the madness behind it. 
+
 ## What reading will you examine to provide context and background?
 
 ## What data will you use? If you are collecting new data, how will you do it?
