@@ -12,9 +12,11 @@ It is that time of the year where everyone is watching college basketball and th
 
 ## What reading will you examine to provide context and background?
 We will read more about what the data means that we are provided.
+The first article, "Gradient Boosting Algorithm: A Complete Guide for Beginners", will provide background information on gradient boosting algorithms and how to apply our predictions.
 [link text,](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
+The second article, "Understanding Gradient Boosting Machines", provides more insight on how to we can create a gradient boosting machine for our mission.
 [link text,](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab)
-[link text,](https://ieeexplore.ieee.org/document/9671688)
+The third article, "Predicting Win Probability", will discuss how to determine the probability of winning using  gradient boosting models.
 [link text](https://towardsdatascience.com/predicting-win-probability-910af3b48f75)
 
 ## What data will you use? If you are collecting new data, how will you do it?
