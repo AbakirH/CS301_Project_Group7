@@ -11,13 +11,13 @@ Competition:https://www.kaggle.com/competitions/mens-march-mania-2022
 It is that time of the year where everyone is watching college basketball and the madness behind it. Fanatics use this time to put their bracketology knowledge to the test. When making our brackets, instead of using current records, quality of wins/losses and probabilty of upsets, we will be utilizing a sequence of effective historical data and computing power. This makes it interesting to work with because most particpants create their brackets based on surface level statistics. For our mission, we will split it up into stages: stage one will consist of the participant building and testing their bracket against prior tournaments and stage two will consist of the participant predicting the outcome of the 2022 tournament.
 
 ## What reading will you examine to provide context and background?
-We will read more about what the data means that we are provided.
-The first article, "Gradient Boosting Algorithm: A Complete Guide for Beginners", will provide background information on gradient boosting algorithms and how to apply our predictions.
-[link text,](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
-The second article, "Understanding Gradient Boosting Machines", provides more insight on how to we can create a gradient boosting machine for our mission.
-[link text,](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab)
-The third article, "Predicting Win Probability", will discuss how to determine the probability of winning using  gradient boosting models.
-[link text](https://towardsdatascience.com/predicting-win-probability-910af3b48f75)
+We will read more about what the data means that we are provided.[data explanation](https://www.kaggle.com/competitions/mens-march-mania-2022/data)
+
+The First Article ["Gradient Boosting Algorithm: A Complete Guide for Beginners"](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/) will provide background information on gradient boosting algorithms and how to apply our predictions.
+
+The second article ["Understanding Gradient Boosting Machines"](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab) provides more insight on how to we can create a gradient boosting machine for our mission.
+
+The third article, will discuss[ "Predicting Win Probability",](https://towardsdatascience.com/predicting-win-probability-910af3b48f75)how to determine the probability of winning using  gradient boosting models.
 
 ## What data will you use? If you are collecting new data, how will you do it?
 We will use the data from Kaggle https://www.kaggle.com/competitions/mens-march-mania-2022/data. We will pick the features from the csv files that we find important and go from there. The only new data we will collect will be this year’s tournament results and see how we do compared to them.
