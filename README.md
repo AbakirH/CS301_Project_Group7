@@ -17,7 +17,7 @@ We will use the data from Kaggle https://www.kaggle.com/competitions/mens-march-
 
 ## What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? You don’t have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.
 
-Due to the bracketed nature of the basketball tournament, it makes perfect sense to use random forests to generate predictions. A teams seed can be used to predict chance of winning initially, but as upsets occur the seed unofficial seed ranking will change. Ada Boositing can be used to retroactively adjust the weights of losses.
+Due to the bracketed nature of the basketball tournament, it makes perfect sense to use random forests to generate predictions. A teams seed can be used to predict chance of winning initially, but as upsets occur the seed unofficial seed ranking will change. Ada Boositing can be used to retroactively adjust the weights of losses. As we look more into the data provided we might use another method to more accurately train our model and use JAX.
 
 ## How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 Our prediction will be scored on the log loss:
