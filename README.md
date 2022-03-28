@@ -8,7 +8,7 @@ Company Mission: Sports Center INC gives you all the relevent information you ne
 ## Proposal: 
 Competition:https://www.kaggle.com/competitions/mens-march-mania-2022
 ## What is the problem that you will be investigating? Why is it interesting?
-It is that time of the year where everyone is watching college basketball and the madness behind it. 
+It is that time of the year where everyone is watching college basketball and the madness behind it. Fanatics use this time to put their bracketology knowledge to the test. When making our brackets, instead of using current records, quality of wins/losses and probabilty of upsets, we will be utilizing a sequence of effective historical data and computing power. 
 
 ## What reading will you examine to provide context and background?
 
