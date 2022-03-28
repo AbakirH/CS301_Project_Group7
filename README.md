@@ -11,8 +11,8 @@ Competition:https://www.kaggle.com/competitions/mens-march-mania-2022
 It is that time of the year where everyone is watching college basketball and the madness behind it. Fanatics use this time to put their bracketology knowledge to the test. When making our brackets, instead of using current records, quality of wins/losses and probabilty of upsets, we will be utilizing a sequence of effective historical data and computing power. 
 
 ## What reading will you examine to provide context and background?
-We will read more about what the data means that we are provided.https://www.kaggle.com/competitions/mens-march-mania-2022/data
-[link text](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)\n
+We will read more about what the data means that we are provided.
+[link text](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
 [link text](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab)
 [link text](https://ieeexplore.ieee.org/document/9671688)
 
